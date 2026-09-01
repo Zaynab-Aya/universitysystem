@@ -22,3 +22,5 @@ db.properties
 
 # Local Vosk speech recognition model
 vosk-model/
+
+# Repository cleanup
